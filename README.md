@@ -2,7 +2,7 @@
 Qenerate All (v1.2.1)​An all-in-one web utility platform featuring a QR Code generator, fast file converter, and digital productivity tools.
 
 ​Qenerate All is an all-in-one web utility platform providing instant QR code generation, file conversion, and various digital tools in a clean, efficient interface.
-​🌐 Live Website: https://qenerate-all.vercel.app (Replace with your actual link)
+​🌐 Live Website: https://qenerate.vercel.app/ (Replace with your actual link)
 ​🔑 Key Features
 ​QR Code Generator: Instant QR code creation for text, URLs, and digital data.
 ​File Converter: Fast conversion across multiple file formats.
